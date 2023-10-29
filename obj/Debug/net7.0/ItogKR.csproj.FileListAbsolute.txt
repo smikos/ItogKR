@@ -1,0 +1,15 @@
+C:\Users\sasha\Desktop\ItogKR\bin\Debug\net7.0\ItogKR.exe
+C:\Users\sasha\Desktop\ItogKR\bin\Debug\net7.0\ItogKR.deps.json
+C:\Users\sasha\Desktop\ItogKR\bin\Debug\net7.0\ItogKR.runtimeconfig.json
+C:\Users\sasha\Desktop\ItogKR\bin\Debug\net7.0\ItogKR.dll
+C:\Users\sasha\Desktop\ItogKR\bin\Debug\net7.0\ItogKR.pdb
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.csproj.AssemblyReference.cache
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.AssemblyInfoInputs.cache
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.AssemblyInfo.cs
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.dll
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\refint\ItogKR.dll
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.pdb
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ItogKR.genruntimeconfig.cache
+C:\Users\sasha\Desktop\ItogKR\obj\Debug\net7.0\ref\ItogKR.dll
