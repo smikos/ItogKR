@@ -19,6 +19,7 @@ string [] InputArray(int length)
     return array;
 }
 
+
 void PrintArray(string[] array)
 {
 for (int i = 0; i < array.Length; i++)
