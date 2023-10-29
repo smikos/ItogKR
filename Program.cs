@@ -22,15 +22,34 @@ string [] InputArray(int length)
 
 void PrintArray(string[] array)
 {
+  System.Console.WriteLine("Первый массив:");
 for (int i = 0; i < array.Length; i++)
 {
   
   System.Console.Write( $"{array[i]}  ");  
 }
+System.Console.WriteLine();
 }
+
+void PrintArray2(string[] array)
+{
+   System.Console.WriteLine("Второй массив:");
+for (int i = 0; i < array.Length; i++)
+{
+         
+                   if (array[i].Length <4)
+
+                      {
+                        System.Console.Write( $"{array[i]}  ");  
+                       }
+                
+}
+}
+
 int length =Prompt ("Введитеколичество элементов > ");
 string [] array;
 
 array = InputArray(length);
 
 PrintArray(array);
+PrintArray2(array);
