@@ -1,4 +1,6 @@
-﻿int Prompt(string message)
+﻿
+//вводить строки с английской раскладкой 
+int Prompt(string message)
 {
     System.Console.WriteLine(message);
     string value = Console.ReadLine();
